@@ -1,0 +1,13 @@
+.gridRow {
+    border: 1px solid black;
+}
+
+.cell {
+    border: 1px solid black;
+}
+
+#canvas {
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+}
